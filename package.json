@@ -1,0 +1,29 @@
+{
+  "name": "memovie",
+  "version": "0.0.1",
+  "description": "Movie Watcher",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {
+    "chai": "^3.4.1"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/breath103/Memovie.git"
+  },
+  "author": "Kurt Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/breath103/Memovie/issues"
+  },
+  "homepage": "https://github.com/breath103/Memovie#readme"
+}
